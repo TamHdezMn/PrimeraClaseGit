@@ -1,1 +1,5 @@
 Prueba para los cambios de GIT
+
+
+
+GIT  es un sistema de control de versiones de código fuente. Los desarrolladores han de tener conocimientos para usarlo. 
